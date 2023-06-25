@@ -24,6 +24,8 @@ OBJETIVO:<br />
 - Promover una experiencia de usuario satisfactoria: El objetivo es proporcionar a los usuarios una experiencia de usuario satisfactoria y gratificante al controlar los carros a control remoto. El guante con sensores de movimiento mejorará la interacción y la conexión entre el usuario y el carro, lo que aumentará el disfrute y el compromiso del usuario durante el manejo del dispositivo.
 
 # Diagrama de Flujo de la Solución
+DIAGRAMA DE FLUJO:
+![Diagrama en blanco](https://github.com/Controlador-de-Carro/Dumentacion/assets/137632667/5792136f-9b92-474c-9dac-3117a216cd4a)
 
 Insertar imagen del diagrama de caja negra de su solución sin la tecnología*
 
