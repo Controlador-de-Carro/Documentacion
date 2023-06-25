@@ -29,7 +29,7 @@ insertar imagen del diagrama de caja negra tecnológico*
 
 Insertar imágenes*
 
-#Implementación
+# Implementación
 
 Insertar esquemático circuital de kicad, imagenes del ruteo de kicad (ambas caras) y 3D del diseño de kicad, fotografías sobre la implentación (tanto PCB).*
 
