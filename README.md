@@ -18,7 +18,7 @@ ALCANCE:<br />
 - La solución permitiría una mayor precisión en los movimientos y una mejor maniobrabilidad del carro. Los gestos y movimientos naturales de la mano y la muñeca ofrecerían una mayor sensibilidad y control en comparación con los controles convencionales.
 - El uso del guante con sensores de movimiento brindaría una experiencia más inmersiva y gratificante al manejar el carro a control remoto. Los usuarios sentirían una mayor conexión con el dispositivo y podrían disfrutar plenamente de la experiencia de conducción.
 
-OBJETIVO:<br />
+OBJETIVOS:<br />
 - Diseñar un guante con sensores de movimiento intuitivo: El objetivo principal es desarrollar un guante con sensores de movimiento que sea intuitivo y fácil de usar para el control de carros a control remoto. El diseño del guante se centrará en capturar los gestos y movimientos naturales de la mano y la muñeca, proporcionando una experiencia de manejo más intuitiva y fluida.
 - Simplificar la curva de aprendizaje: Se buscará simplificar la curva de aprendizaje para los usuarios nuevos o poco experimentados en el manejo de carros a control remoto. El guante intuitivo y fácil de usar reducirá la frustración y permitirá a los usuarios aprender rápidamente las técnicas de control necesarias para operar los carros de forma efectiva.
 - Promover una experiencia de usuario satisfactoria: El objetivo es proporcionar a los usuarios una experiencia de usuario satisfactoria y gratificante al controlar los carros a control remoto. El guante con sensores de movimiento mejorará la interacción y la conexión entre el usuario y el carro, lo que aumentará el disfrute y el compromiso del usuario durante el manejo del dispositivo.
