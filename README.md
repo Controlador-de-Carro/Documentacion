@@ -27,9 +27,11 @@ OBJETIVOS:<br />
 DIAGRAMA DE FLUJO:
 ![Diagrama en blanco](https://github.com/Controlador-de-Carro/Dumentacion/assets/137632667/5792136f-9b92-474c-9dac-3117a216cd4a)
 
-Insertar imagen del diagrama de caja negra de su solución sin la tecnología*
+DIAGRAMA DE CAJA NEGRA SIN LA TECNOLOGÍA
+![Diagrama de caja negra sin tecnologia](https://github.com/Controlador-de-Carro/Dumentacion/assets/137632667/6ef0f93f-aa9b-47e0-b6d4-f3838f4a8224)
 
-insertar imagen del diagrama de caja negra tecnológico*
+DIAGRAMA DE CAJA NEGRA CON LA TECNOLOGÍA
+![Caja Negra con tecnología](https://github.com/Controlador-de-Carro/Dumentacion/assets/137632667/8e5d4a00-8542-46d7-b5b0-7811dbd693c8)
 
 # Imagenes de los diseños realizados en el tablero del salón
 
