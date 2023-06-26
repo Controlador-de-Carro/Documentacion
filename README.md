@@ -37,8 +37,7 @@ Insertar imágenes*
 
 # Implementación
 
-Insertar esquemático circuital de kicad, imagenes del ruteo de kicad (ambas caras) y 3D del diseño de kicad, fotografías sobre la implentación (tanto PCB).*
-PCB: Fue hecha mediante el programa proteus 8, las complicaciones se presentaron al no haber librerias ni de la ESP32 ni del giroscopio MPU-6050, por lo que se hicieron las respectivasm mediciones de los pines para poder fabricar esta, ademas en el PDF se muestra en forma espejo ya que asi se manda a imprimir para que la serigrafia quede bien, con esta nos podemos guiar de la posición de los pines. Tambiend se adjuntan las imagenes del diseño de la PCB y ese diseño pero en 3D.
+PCB: Fue hecha mediante el programa proteus 8, las complicaciones se presentaron al no haber librerias ni de la ESP32 ni del giroscopio MPU-6050, por lo que se hicieron las respectivasm mediciones de los pines para poder fabricar esta, ademas en el PDF se muestra en forma espejo ya que asi se manda a imprimir para que la serigrafia quede bien, con esta nos podemos guiar de la posición de los pines. Tambien se adjuntan las imagenes del ruteo y el diseño en 3D.
 [PCB FINAL.PDF](https://github.com/Controlador-de-Carro/Dumentacion/files/11861697/PCB.FINAL.PDF). ![Captura de pantalla 2023-06-25 205715](https://github.com/Controlador-de-Carro/Dumentacion/assets/137660800/14a0acb3-7d7d-4fd1-b494-d941a09cea24). ![Captura de pantalla 2023-06-25 205658](https://github.com/Controlador-de-Carro/Dumentacion/assets/137660800/02e1e8d5-5f4d-42ca-8107-ab8cb8aa46b4)
 
 
