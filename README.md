@@ -35,7 +35,8 @@ DIAGRAMA DE CAJA NEGRA CON LA TECNOLOGÍA
 
 # Imagenes de los diseños realizados en el tablero del salón
 
-Insertar imágenes*
+Circuito propuesto: ![Tablero TEB 1](https://github.com/Controlador-de-Carro/Dumentacion/assets/137660800/ab082287-abfb-4442-82b4-f190a1d138b9)
+
 
 # Implementación
 
