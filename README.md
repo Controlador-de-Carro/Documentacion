@@ -1,6 +1,5 @@
 # Controlador-de-Carro
 
-añadir imagen del proyecto*
 
 # Integrantes
 Alejandro Valero<br />
