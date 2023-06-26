@@ -43,6 +43,7 @@ Circuito propuesto: ![Tablero TEB 1](https://github.com/Controlador-de-Carro/Dum
 PCB: Fue hecha mediante el programa proteus 8, las complicaciones se presentaron al no haber librerias ni de la ESP32 ni del giroscopio MPU-6050, por lo que se hicieron las respectivasm mediciones de los pines para poder fabricar esta, ademas en el PDF se muestra en forma espejo ya que asi se manda a imprimir para que la serigrafia quede bien, con esta nos podemos guiar de la posición de los pines. Tambien se adjuntan las imagenes del ruteo y el diseño en 3D.
 [PCB FINAL.PDF](https://github.com/Controlador-de-Carro/Dumentacion/files/11861697/PCB.FINAL.PDF). ![Captura de pantalla 2023-06-25 205715](https://github.com/Controlador-de-Carro/Dumentacion/assets/137660800/14a0acb3-7d7d-4fd1-b494-d941a09cea24). ![Captura de pantalla 2023-06-25 205658](https://github.com/Controlador-de-Carro/Dumentacion/assets/137660800/02e1e8d5-5f4d-42ca-8107-ab8cb8aa46b4)
 
-
-
 # Videos de implementación y desarrollo del proyecto
+Probando el código del giro del dispositivo rotando en los diferentes ejes
+https://github.com/Controlador-de-Carro/Dumentacion/assets/137632667/93d23020-855f-4cdd-9650-059f637b97df
+
