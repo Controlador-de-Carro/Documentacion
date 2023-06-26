@@ -44,6 +44,6 @@ PCB: Fue hecha mediante el programa proteus 8, las complicaciones se presentaron
 [PCB FINAL.PDF](https://github.com/Controlador-de-Carro/Dumentacion/files/11861697/PCB.FINAL.PDF). ![Captura de pantalla 2023-06-25 205715](https://github.com/Controlador-de-Carro/Dumentacion/assets/137660800/14a0acb3-7d7d-4fd1-b494-d941a09cea24). ![Captura de pantalla 2023-06-25 205658](https://github.com/Controlador-de-Carro/Dumentacion/assets/137660800/02e1e8d5-5f4d-42ca-8107-ab8cb8aa46b4)
 
 # Videos de implementación y desarrollo del proyecto
-Probando el código del giro del dispositivo rotando en los diferentes ejes
+Probando el código del giro del dispositivo rotando en los diferentes ejes<br />
 https://github.com/Controlador-de-Carro/Dumentacion/assets/137632667/93d23020-855f-4cdd-9650-059f637b97df
 
