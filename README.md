@@ -31,7 +31,8 @@ Insertar imagen del diagrama de caja negra de su solución sin la tecnología*
 
 insertar imagen del diagrama de caja negra tecnológico*
 
-# Imagenes de los diseños realizados en el tablero del salón
+# Imagenes de los diseños realizados en el tablero[PCB FINAL.PDF](https://github.com/Controlador-de-Carro/Dumentacion/files/11861697/PCB.FINAL.PDF)
+ del salón
 
 Insertar imágenes*
 
@@ -39,6 +40,6 @@ Insertar imágenes*
 
 Insertar esquemático circuital de kicad, imagenes del ruteo de kicad (ambas caras) y 3D del diseño de kicad, fotografías sobre la implentación (tanto PCB).*
 PCB:
-![PDF de la PCB](file:///C:/Users/jonathan/Desktop/PCB%20FINAL.PDF).
+![PDF de la PCB]([Uploading PCB FINAL.PDF…]()).
 
 # Videos de implementación y desarrollo del proyecto
