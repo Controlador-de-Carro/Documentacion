@@ -1,4 +1,5 @@
 # Controlador-de-Carro
+![Proyecto guante](https://github.com/Controlador-de-Carro/Dumentacion/assets/137660800/fd03cb66-8906-44aa-a841-c3020fe762b9)
 
 
 # Integrantes
