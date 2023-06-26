@@ -8,7 +8,7 @@ Jonathan Ducuara<br />
 Camilo Torres<br />
 
 # Descripción del Proyecto
-Este proyecto busca poder controlar un carro a control remoto por medio de conexión _________ 
+Este proyecto busca poder controlar un carro a control remoto por medio de conexión inalambrica y el movimiento de la mano. 
 
 PROBLEMÁTICA:<br />
 - Actualmente, el manejo de carros a control remoto mediante mandos o aplicaciones móviles puede resultar poco intuitivo y difícil de dominar para muchas personas. Los controles convencionales, como los mandos con múltiples botones o las interfaces de aplicaciones móviles, pueden presentar barreras de entrada para aquellos que no están familiarizados con ellos. Esto puede llevar a una experiencia frustrante y limitar el disfrute y la eficiencia en el manejo de los carros a control remoto.
