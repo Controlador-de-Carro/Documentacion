@@ -38,5 +38,7 @@ Insertar imágenes*
 # Implementación
 
 Insertar esquemático circuital de kicad, imagenes del ruteo de kicad (ambas caras) y 3D del diseño de kicad, fotografías sobre la implentación (tanto PCB).*
+PCB:
+![PDF de la PCB](file:///C:/Users/jonathan/Desktop/PCB%20FINAL.PDF).
 
 # Videos de implementación y desarrollo del proyecto
