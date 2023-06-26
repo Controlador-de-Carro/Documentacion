@@ -4,7 +4,7 @@ añadir imagen del proyecto*
 
 # Integrantes
 Alejandro Valero<br />
-Jonathan<br />
+Jonathan Ducuara<br />
 Camilo Torres<br />
 
 # Descripción del Proyecto
