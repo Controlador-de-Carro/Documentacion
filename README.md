@@ -1,6 +1,6 @@
 # Controlador-de-Carro
-![Proyecto guante](https://github.com/Controlador-de-Carro/Dumentacion/assets/137660800/fd03cb66-8906-44aa-a841-c3020fe762b9)
 
+![Guante 2](https://github.com/Controlador-de-Carro/Dumentacion/assets/137660800/c04cb2fd-abce-4831-8a05-7f9c9ad1725a)
 
 # Integrantes
 Alejandro Valero<br />
